@@ -1,4 +1,4 @@
-# data-structures-py
+# Python
 
 A collection of data structure implementations in Python with object oriented manner
 
